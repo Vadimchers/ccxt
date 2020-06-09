@@ -17,7 +17,7 @@ async def test():
         # 'proxy': 'https://cors-anywhere.herokuapp.com/',
         # 'origin': 'foobar',  # when using CORS proxies, set this to some random string
 
-        'enableRateLimit': True,  # required accoding to the Manual
+        'enableRateLimit': True,  # required according to the Manual
     })
 
     try:
